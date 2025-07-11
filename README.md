@@ -27,7 +27,7 @@
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/srinivasulu)
+- 💼 [LinkedIn](https://www.linkedin.com/srinivasulupusala)
 - ✉️ psrinivasuludev@gmail.com 
 
 ---
