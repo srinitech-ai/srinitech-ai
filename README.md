@@ -11,8 +11,8 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [`rag-knowledge-assistant`](https://github.com/srinitech-ai/rag-knowledge-assistant) | RAG-based chatbot with history-aware Q&A | LangChain, FAISS, Groq, Streamlit |
-| [`smart-it-agent`](https://github.com/srinitech-ai/smart-it-agent) | Multi-tool IT assistant agent with synthetic data | LangChain, agno, Streamlit |
+| [`rag-knowledge-assistant`](https://github.com/srinitech-ai/rag-knowledge-assistant) | RAG-based chatbot with history-aware Q&A <br>👉 Enables multi-turn answers from uploaded docs | LangChain, FAISS, Groq, Streamlit |
+| [`smart-it-agent`](https://github.com/srinitech-ai/smart-it-agent) | Multi-tool IT agent for synthetic infra management | LangChain, Streamlit |
 | [`genai-travel-itinerary`](https://github.com/srinitech-ai/genai-travel-itinerary) | Personalized travel planner using DAAG agent graph | Python, FastAPI, Agents |
 | [`genai-support-ticket-resolution-system`](https://github.com/srinitech-ai/genai-support-ticket-resolution-system) | Ticketing system with agent collaboration & escalation | Groq, Redis, FAISS, Streamlit |
 
