@@ -11,13 +11,10 @@
 
 | Project | Description | Impact & Tech |
 |--------|-------------|------|
-| [`rag-knowledge-assistant`](https://github.com/srinitech-ai/rag-knowledge-assistant) |RAG-based chatbot with history-aware Q&A. | 🚀 Reduced document search time by 40% for internal support team.
-🔧 LangChain, FAISS, Groq, Streamlit |
-| [`smart-it-agent`](https://github.com/srinitech-ai/smart-it-agent) | Multi-tool IT agent for infra management. | ⚙️ Automated 75% of routine tickets.
-LangChain, Streamlit, Agno framework |
+| [`rag-knowledge-assistant`](https://github.com/srinitech-ai/rag-knowledge-assistant) |RAG-based chatbot with history-aware Q&A. | 🚀 Reduced document search time by 40% for internal support team.🔧 LangChain, FAISS, Groq, Streamlit |
+| [`smart-it-agent`](https://github.com/srinitech-ai/smart-it-agent) | Multi-tool IT agent for infra management. | ⚙️ Automated 75% of routine tickets. LangChain, Streamlit, Agno framework |
 | [`genai-travel-itinerary`](https://github.com/srinitech-ai/genai-travel-itinerary) | 🌏 Personalized travel planner using DAAG agent graph | Python, FastAPI, Agents |
-| [`genai-support-ticket-resolution-system`](https://github.com/srinitech-ai/genai-support-ticket-resolution-system) | Agent-collaborative ticketing & escalation. | 📈 Improved resolution rate by 30%.
-Groq, Redis, FAISS, Streamlit |
+| [`genai-support-ticket-resolution-system`](https://github.com/srinitech-ai/genai-support-ticket-resolution-system) | Agent-collaborative ticketing & escalation. | 📈 Improved resolution rate by 30%. Groq, Redis, FAISS, Streamlit |
 
 ---
 
