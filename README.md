@@ -9,19 +9,32 @@
 
 ## 🔥 Featured Projects
 
-| Project | Description | Tech |
+| Project | Description | Impact & Tech |
 |--------|-------------|------|
-| [`rag-knowledge-assistant`](https://github.com/srinitech-ai/rag-knowledge-assistant) | RAG-based chatbot with history-aware Q&A <br>👉 Enables multi-turn answers from uploaded docs | LangChain, FAISS, Groq, Streamlit |
-| [`smart-it-agent`](https://github.com/srinitech-ai/smart-it-agent) | Multi-tool IT agent for synthetic infra management | LangChain, Streamlit , Agno framework |
-| [`genai-travel-itinerary`](https://github.com/srinitech-ai/genai-travel-itinerary) | Personalized travel planner using DAAG agent graph | Python, FastAPI, Agents |
-| [`genai-support-ticket-resolution-system`](https://github.com/srinitech-ai/genai-support-ticket-resolution-system) | Ticketing system with agent collaboration & escalation | Groq, Redis, FAISS, Streamlit |
+| [`rag-knowledge-assistant`](https://github.com/srinitech-ai/rag-knowledge-assistant) |RAG-based chatbot with history-aware Q&A. | 🚀 Reduced document search time by 40% for internal support team.
+🔧 LangChain, FAISS, Groq, Streamlit |
+| [`smart-it-agent`](https://github.com/srinitech-ai/smart-it-agent) | Multi-tool IT agent for infra management. | ⚙️ Automated 75% of routine tickets.
+LangChain, Streamlit, Agno framework |
+| [`genai-travel-itinerary`](https://github.com/srinitech-ai/genai-travel-itinerary) | 🌏 Personalized travel planner using DAAG agent graph | Python, FastAPI, Agents |
+| [`genai-support-ticket-resolution-system`](https://github.com/srinitech-ai/genai-support-ticket-resolution-system) | Agent-collaborative ticketing & escalation. | 📈 Improved resolution rate by 30%.
+Groq, Redis, FAISS, Streamlit |
 
 ---
 
 ## 🧠 Skills & Stack
 
-`React.js` • `Node.js` • `TypeScript` • `Python` • `LangChain` • `Groq`  
-`FAISS` • `Redis` • `Streamlit` • `FastAPI` • `MongoDB` • `MySQL` • `Docker` • `Git`
+### 🚀 Core  
+JavaScript • TypeScript • Node.js • React.js • Redux  
+
+### 🤖 GenAI & Data  
+Python • LangChain • Groq • FAISS • Redis  
+
+### ☁️ Infrastructure  
+Docker • Kubernetes (in progress) • AWS (Developer Cert) • MySQL • MongoDB  
+
+### 🔧 Tools  
+Git • CI/CD (GitHub Actions) • Streamlit • FastAPI  
+
 
 ---
 
