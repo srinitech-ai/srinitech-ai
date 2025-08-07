@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Srinivasulu | Full-Stack + GenAI Engineer
+# 👋 Hi, I’m Srinivasulu | Full-Stack & GenAI Engineer
+🔭 Architecting production-grade RAG assistants & autonomous agents that scale to millions of queries.
+
 
 🚀 8.7+ years of professional experience in full-stack development  
 🧠 Building next-gen AI tools using LLMs, LangChain, Groq, FAISS, and multi-agent systems  
@@ -42,4 +44,4 @@ Git • CI/CD (GitHub Actions) • Streamlit • FastAPI
 
 ---
 
-_“I’m not just building apps — I’m building intelligent systems that solve real-world problems.”_
+_“I don’t just build apps — I create intelligent systems that solve real-world problems.”_
